@@ -1,0 +1,19 @@
+.red-bg {
+    background-color: rgba(221, 73, 73, 0.3);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num-2 {
+    color: rgb(19, 52, 200);
+    font-size: 36px;
+}
+
+.red-bg.cooler {
+    font-size: 24px;
+}
+
+#shego {
+    background-color: rgb(44, 231, 91);
+    font-size: 24px;
+    font-weight: bold;
+}
